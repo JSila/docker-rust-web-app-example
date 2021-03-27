@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2a56e2ca-38ad-44f6-bfaf-71cf23e48cf9" name="jernejsila.com" url="https://www.jernejsila.com:4646">
+        <fileTransfer rootFolder="/home/jernej/rustecho" accessType="SFTP" host="jernejsila.com" port="22" sshConfigId="246709b9-7f94-44d5-a45b-932a014846a3" sshConfig="jernej@jernejsila.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
